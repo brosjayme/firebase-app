@@ -14,6 +14,10 @@ html, body{
     margin: 36px auto;
     
 }
+img{
+    width: 150px;
+    margin: 0 auto;
+}
 
 input{
     color: #432000;
@@ -22,6 +26,8 @@ input{
     padding: 12px;
     border-radius: 8px;
     font-size: 20px;
+    text-align: center;
+    margin: 10px 0;
 
 }
 button{
@@ -31,6 +37,8 @@ button{
     padding: 12px;
     border-radius: 8px;
     font-size: 20px;
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
 
 
 }
