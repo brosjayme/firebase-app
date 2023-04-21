@@ -39,6 +39,7 @@ button{
     font-size: 20px;
     text-align: center;
     font-family: 'Rubik', sans-serif;
-
-
+}
+#shopping-list{
+    list-style-type: none;
 }
